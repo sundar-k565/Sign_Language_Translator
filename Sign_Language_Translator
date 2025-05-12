@@ -1,0 +1,11 @@
+Sign_Language_Translator
+├── ISL_Gifs/
+│   ├── hello.gif
+│   ├── thankyou.gif
+│   └── ...
+├── letters/
+│   ├── a.jpg
+│   ├── b.jpg
+│   └── ...
+├── signlang.jpg
+└── script.py
