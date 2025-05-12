@@ -8,4 +8,4 @@ Sign_Language_Translator
 │   ├── b.jpg
 │   └── ...
 ├── signlang.jpg
-└── script.py
+└── main.py
